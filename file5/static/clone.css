@@ -49,12 +49,20 @@ padding: 3rem;
 border-radius: 1rem;
 color: white;
 scroll-snap-align: start;
-
 }
-#container{
-    overflow: auto;
-scroll-snap-type: y mandatory;
+p{
+    font-size: 2.25rem;
 }
-.item:nth-child(3n+1) {
-background: #fff6be;
+h3{
+    color: #ae874e;
+    font-size: 3.25rem;
+    font-weight: 700;
+}
+.txtbox dl dt h3 {
+    color: #ae874e;
+    font-size: 3.25rem;
+    font-weight: 700;
+}
+dd{
+    margin-top: 30px;
 }
