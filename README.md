@@ -1,1 +1,1 @@
-https://jun0705.github.io/cloneCoding-t-style-/clone.html
+https://jun0705.github.io/cloneCoding-t-style-/cllone.html
