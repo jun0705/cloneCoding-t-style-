@@ -1,4 +1,4 @@
-https://jun0705.github.io/main.html
+https://jun0705.github.io/
 
 
 
